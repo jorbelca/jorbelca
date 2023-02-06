@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jordi</h1>
 <h3 align="center">A junior frontend developer</h3>
 
