@@ -8,9 +8,9 @@
 
 <h3 align="left">Projects:</h3>
 <ul align="left"> 
-  [link]("https://info-countries-five.vercel.app"){:target="_blank"}
-  <li><a href="#" onclick='window.open("https://info-countries-five.vercel.app");return false;'>InfoCountries</a></li>
-  <li><a href="https://infofinance.vercel.app" target="_blank">InfoFinance</a></li>
+
+  <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a></li>
+  <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
