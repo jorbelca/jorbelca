@@ -6,6 +6,9 @@
 <a href="https://linkedin.com/in/jordi-belda-42ab30245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jordi-belda-42ab30245" height="20" width="20" /></a>
 </p>
 
+<h3 align="left">Projects:</h3>
+<li align="left"> </li>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   
