@@ -9,6 +9,7 @@
 <h3 align="left">Projects:</h3>
 <ul align="left"> 
   <li><a href='https://info-countries-five.vercel.app' target="_blank">InfoCountries</a></li>
+  <li><a href="https://infofinance.vercel.app" target="_blank">InfoFinance</a></li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
