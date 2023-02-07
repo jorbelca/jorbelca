@@ -7,7 +7,9 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-<li align="left"> </li>
+<ul align="left"> 
+  <li><a href='https://info-countries-five.vercel.app' target='blank'>InfoCountries</a></li>
+</ul>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
