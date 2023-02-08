@@ -11,8 +11,7 @@
 
   <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a></li>
   <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a></li>
-  <li><a href="https://trackalories-deployment-production.up.railway.app" target="_blank" rel="noopener">Trackalories</a></li>
-  
+  <li><a href="https://trackalories.up.railway.app" target="_blank" rel="noopener">Trackalories</a></li>
 
 </ul>
 
