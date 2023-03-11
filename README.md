@@ -16,7 +16,7 @@
   <li><a href="https://drum-pad-sage.vercel.app" target="_blank" rel="noopener">Drum Machine</a></li>
   <li><a href="https://random-quotes-generator-kappa.vercel.app" target="_blank" rel="noopener">Random Quotes Generator</a></li> 
   <li><a href="https://javascript-calculator-five.vercel.app" target="_blank" rel="noopener">Calculator</a></li> 
-  <li><a href="https://trackalories.up.railway.app" target="_blank" rel="noopener">Trackalories</a></li>
+  <li><a href="https://trackalories.vercel.app" target="_blank" rel="noopener">Trackalories</a></li>
   <li><a href="https://thesmallcrawler.vercel.app" target="_blank" rel="noopener">Crawler</a></li>
   
 
