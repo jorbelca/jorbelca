@@ -19,7 +19,7 @@
   <li><a href="https://github.com/jorbelca/libreta" target="_blank" rel="noopener">Libreta</a></li> 
   <li><a href="https://interval-countdown.vercel.app" target="_blank" rel="noopener">Interval Countdown</a></li> 
   <li><a href="https://trackalories.vercel.app" target="_blank" rel="noopener">Trackalories</a></li>
-  <li><a href="https://thesmallcrawler.vercel.app" target="_blank" rel="noopener">Crawler</a></li>
+  <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a></li>
   
 
 </ul>
