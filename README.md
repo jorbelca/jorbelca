@@ -8,7 +8,9 @@
 
 <h3 align="left">Some Projects:</h3>
 <ul align="left"> 
-
+  <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a></li>
+  <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a></li>
+   <li><a href="https://github.com/jorbelca/testingTransformers" target="_blank" rel="noopener">Testing Transformers</a></li>
   <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a></li>
   <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a></li>
   <li><a href="https://markdown-editor-rust.vercel.app" target="_blank" rel="noopener">Markdown Previewer</a></li>
@@ -18,8 +20,7 @@
   <li><a href="https://javascript-calculator-five.vercel.app" target="_blank" rel="noopener">Calculator</a></li> 
   <li><a href="https://github.com/jorbelca/libreta" target="_blank" rel="noopener">Libreta</a></li> 
   <li><a href="https://interval-countdown.vercel.app" target="_blank" rel="noopener">Interval Countdown</a></li> 
-  <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a></li>
-  <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a></li>
+
   
 
 </ul>
