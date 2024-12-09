@@ -46,4 +46,4 @@
 <h3 align="left">Metrics</h3>
   ![Metrics](./github-metrics.svg)
 
-</p>
+
