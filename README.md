@@ -21,6 +21,7 @@
   <li><a href="https://javascript-calculator-five.vercel.app" target="_blank" rel="noopener">Calculator</a></li> 
   <li><a href="https://github.com/jorbelca/libreta" target="_blank" rel="noopener">Libreta</a></li> 
   <li><a href="https://interval-countdown.vercel.app" target="_blank" rel="noopener">Interval Countdown</a></li>
+   <li><a href="https://tensorflow-exercises.vercel.app" target="_blank" rel="noopener">Dice Classifier</a></li>
 
 </ul>
 
