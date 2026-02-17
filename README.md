@@ -16,13 +16,6 @@
    <li><a href="https://github.com/jorbelca/testingTransformers" target="_blank" rel="noopener">Testing Transformers</a></li>
   <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a></li>
   <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a></li>
-  <li><a href="https://markdown-editor-rust.vercel.app" target="_blank" rel="noopener">Markdown Previewer</a></li>
-  <li><a href="https://pomodoro-ivory-eight.vercel.app" target="_blank" rel="noopener">Pomodoro Timer</a></li>
-  <li><a href="https://drum-pad-sage.vercel.app" target="_blank" rel="noopener">Drum Machine</a></li>
-  <li><a href="https://random-quotes-generator-kappa.vercel.app" target="_blank" rel="noopener">Random Quotes Generator</a></li> 
-  <li><a href="https://javascript-calculator-five.vercel.app" target="_blank" rel="noopener">Calculator</a></li> 
-  <li><a href="https://github.com/jorbelca/libreta" target="_blank" rel="noopener">Libreta</a></li> 
-  <li><a href="https://interval-countdown.vercel.app" target="_blank" rel="noopener">Interval Countdown</a></li>
    <li><a href="https://tensorflow-exercises.vercel.app" target="_blank" rel="noopener">Dice Classifier</a></li>
 
 </ul>
