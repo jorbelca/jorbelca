@@ -8,6 +8,8 @@
 
 <h3 align="left">Some Projects:</h3>
 <ul align="left"> 
+  <li><a href="https://oralprep.app" target="_blank" rel="noopener">OralPrep</a></li>
+  <li><a href="https://airmetrics-suite.vercel.app" target="_blank" rel="noopener">Airmetrics</a></li>
   <li><a href="https://budgetapp.software" target="_blank" rel="noopener">Budget App</a></li>
   <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a></li>
   <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a></li>
