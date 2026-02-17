@@ -8,15 +8,15 @@
 
 <h3 align="left">Some Projects:</h3>
 <ul align="left"> 
-  <li><a href="https://oralprep.app" target="_blank" rel="noopener">OralPrep</a></li>
-  <li><a href="https://airmetrics-suite.vercel.app" target="_blank" rel="noopener">Airmetrics</a></li>
-  <li><a href="https://budgetapp.software" target="_blank" rel="noopener">Budget App</a></li>
-  <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a></li>
-  <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a></li>
-   <li><a href="https://github.com/jorbelca/testingTransformers" target="_blank" rel="noopener">Testing Transformers</a></li>
-  <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a></li>
-  <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a></li>
-   <li><a href="https://tensorflow-exercises.vercel.app" target="_blank" rel="noopener">Dice Classifier</a></li>
+  <li><a href="https://oralprep.app" target="_blank" rel="noopener">OralPrep</a> - App to prepare and practice the oral part of language exams</li>
+  <li><a href="https://airmetrics-suite.vercel.app" target="_blank" rel="noopener">Airmetrics</a> - Airtable extension</li>
+  <li><a href="https://budgetapp.software" target="_blank" rel="noopener">Budget App</a> - Budget manager with AI</li>
+  <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a> - Track daily calories and nutrients</li>
+  <li><a href="https://github.com/jorbelca/crawler" target="_blank" rel="noopener">Crawler</a> - Script to crawl and extract data from websites</li>
+  <li><a href="https://github.com/jorbelca/testingTransformers" target="_blank" rel="noopener">Testing Transformers</a> - Tests with transformer AI models in JavaScript</li>
+  <li><a href="https://info-countries-five.vercel.app" target="_blank" rel="noopener">InfoCountries</a> - Explorer for country information and data</li>
+  <li><a href="https://infofinance.vercel.app" target="_blank" rel="noopener">InfoFinance</a> - Lookup of financial data and information</li>
+  <li><a href="https://tensorflow-exercises.vercel.app" target="_blank" rel="noopener">Dice Classifier</a> - Dice classifier using TensorFlow and machine learning</li>
 
 </ul>
 
