@@ -9,6 +9,7 @@
 <h3 align="left">Some Projects:</h3>
 <ul align="left"> 
   <li><a href="https://oralprep.app" target="_blank" rel="noopener">OralPrep</a> - App to prepare and practice the oral part of language exams</li>
+    <li><a href="https://phonema.app" target="_blank" rel="noopener">Phonema</a> - App to improve your english pronunciation</li>
   <li><a href="https://airmetrics-suite.vercel.app" target="_blank" rel="noopener">Airmetrics</a> - Airtable extension</li>
   <li><a href="https://budgetapp.software" target="_blank" rel="noopener">Budget App</a> - Budget manager with AI</li>
   <li><a href="https://github.com/jorbelca/trackalories" target="_blank" rel="noopener">Trackalories</a> - Track daily calories and nutrients</li>
